@@ -1,0 +1,8 @@
+.footer__navigation a{
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+}
+.footer__navigation {
+    word-spacing: 15px;
+}

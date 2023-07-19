@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 1280px;
+    height:auto;
+    margin-top: 25px;
+    padding-left: 20px;
+    padding-right:25px;
+
+  
+}
+
+.img {
+    padding-left:40px;
+    
+}

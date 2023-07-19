@@ -1,0 +1,10 @@
+.photo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-direction:column;
+    align-items: center;
+
+}

@@ -1,26 +1,10 @@
-.body_content {
-    background-color:#2A2C2F;
-    /*width: 100px;*/
-    height: 100px;
-}
-
-.page{
-    max-width: 1280px;
-    min-width: 320px;
-}
-
-.header {
-    display: flex;
-    justify-content: space-between;
-}
-
-.header_logo {
-    background-image: url(./img/LOGO.jpg);
-    width: 176px;
-    height: 52px;
-    background-size: 176px 52px;
-}
-
-.header_lang {
-    color: white
-}
+@import url('<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&display=swap" rel="stylesheets">');
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/footer/__navigation.css);
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/header_lang.css);
+@import url(./blocks/intro/intro.css);
+@import url(./blocks/lead/lead.css);
+@import url(./blocks/photo-grid/photo-grid.css);
+@import url(./blocks/places/places.css);
